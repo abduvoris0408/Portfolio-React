@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 150">
+    <!-- Oltiburchak -->
+    <polygon points="75,5 140,37.5 140,112.5 75,145 10,112.5 10,37.5" fill="#f0f8ff" stroke="#33ffcc" stroke-width="3"/>
+    <!-- A harfi -->
+    <text x="38%" y="50%" text-anchor="middle" fill="rgb(8 51 68)" font-size="90" font-family="Arial" font-weight="bold" dy=".3em">A</text>
+    <!-- Dekorativ soyalar -->
+    <circle cx="75" cy="75" r="70" fill="none" stroke="rgb(34 211 238)" stroke-width="3" opacity="0.7"/>
+</svg>
+

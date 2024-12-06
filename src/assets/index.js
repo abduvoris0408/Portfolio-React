@@ -1,0 +1,15 @@
+export { default as Logo } from "./logos/logo.svg";
+export { default as MyImage } from "./images/myimage.png";
+export { default as HeaderSVG } from "./logos/header.svg";
+export { default as UzumSVG } from "./logos/uzum.webp";
+export { default as BeelineSVG } from "./logos/Beeline.svg";
+export { default as NajotSVG } from "./logos/najot.png";
+export { default as PDPSVG } from "./logos/PDP.png";
+export { default as NextSVG } from "./logos/next.svg";
+export { default as ViteSVG } from "./logos/vite.svg";
+export { default as VercelSVG } from "./logos/versel.svg";
+export { default as TailwindSVG } from "./logos/tailwind.svg";
+export { default as MyImagePng } from "./images/myaboutimg.jpg";
+export { default as CalendarSVG } from "./logos/calendar.svg";
+export { default as NextbtnSVG } from "./logos/nextbtn.svg";
+export { default as BlogIMG } from "./images/thumbnailimg.webp";
