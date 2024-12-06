@@ -23,7 +23,7 @@ const Navbar = () => {
                     ))}
                 </ul>
                 <div className="flex items-center gap-4">
-                    <ToggleMode />
+                    <ToggleMode/>
                     <Modal />
                 </div>
             </div>
