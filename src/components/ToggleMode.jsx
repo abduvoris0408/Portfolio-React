@@ -2,7 +2,7 @@ import { IoMoon } from "react-icons/io5";
 import { IoSunny } from "react-icons/io5";
 import React, { useState, useEffect } from "react";
 
-function ToggleMode() {
+const ToggleMode = () => {
     const [theme, setTheme] = useState("light");
 
     useEffect(() => {
@@ -43,6 +43,6 @@ function ToggleMode() {
             )}
         </button>
     );
-}
+};
 
 export default ToggleMode;

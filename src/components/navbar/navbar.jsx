@@ -1,8 +1,8 @@
 import { Logo } from "../../assets";
-import ToggleMode from "../togglemode";
 import { navitemsConstants } from "..//../constants/navitems";
 import NavbarItems from "../NavbarItems";
 import Modal from "../Modal";
+import ToggleMode from "../togglemode";
 
 const Navbar = () => {
     return (
@@ -23,7 +23,7 @@ const Navbar = () => {
                     ))}
                 </ul>
                 <div className="flex items-center gap-4">
-                    <ToggleMode/>
+                    <ToggleMode />
                     <Modal />
                 </div>
             </div>
